@@ -88,7 +88,7 @@ Use `print('Hello world!')` and....
 print('Hello world!')
 ```
 
-- [] Task list
+[ ] Task list
 
 
 

@@ -99,8 +99,8 @@ print('Hello world!')
 - Mastering Markdown [link](https://guides.github.com/features/mastering-markdown/)
 - Basic writing and formatting syntax [link](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - Markdown:syntax - by John Gruber [link](https://daringfireball.net/projects/markdown/syntax)
--  [] what is this...? Draw Diagrams with markdown [link]([Draw Diagrams With Markdown (typora.io)](https://support.typora.io/Draw-Diagrams-With-Markdown/))
-- 마크다운 문법사용법 - by eungbeen [link]([마크다운(Markdown) 문법 사용법 (eungbean.github.io)](https://eungbean.github.io/2018/06/11/How-to-use-markdown/))
+-  [] what is this...? Draw Diagrams with markdown [link](https://support.typora.io/Draw-Diagrams-With-Markdown/)
+- 마크다운 문법사용법 - by eungbeen [link](https://eungbean.github.io/2018/06/11/How-to-use-markdown/)
 
 ```sequence
 Alice->Bob: Hello Bob, how are you?

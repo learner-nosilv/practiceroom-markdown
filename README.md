@@ -94,6 +94,14 @@ print('Hello world!')
 
 [x] ?
 
+- [x] Finish my changes
+- [ ] 
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
+
+- [ ] 1
+- [ ] 2
+
 
 
 ` Image size HTML tag`
